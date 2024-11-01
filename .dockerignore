@@ -3,7 +3,8 @@
 .gitignore
 
 # vscode
-.vscode
+.vscode/
+.devcontainer/
 
 # Docker
 .docker
